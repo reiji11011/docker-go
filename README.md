@@ -34,4 +34,4 @@ http://localhost:9000/
 
 ## 詳細・まとめ
 個人wiki  
-https://sugawiki.herokuapp.com/user/sugamaan/Docker/go-docker
+https://sugawiki.herokuapp.com/5bb9a99a8b095d00044a6f90
